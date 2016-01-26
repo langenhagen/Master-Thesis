@@ -1,0 +1,7 @@
+H:\256_ObjectCategories\009.bear\009_0052.jpg
+H:\256_ObjectCategories\019.boxing-glove\019_0091.jpg
+H:\256_ObjectCategories\084.giraffe\084_0002.jpg
+H:\256_ObjectCategories\216.tennis-ball\216_0001.jpg
+H:\256_ObjectCategories\221.tomato\221_0034.jpg
+H:\256_ObjectCategories\248.yarmulke\248_0012.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0715.jpg

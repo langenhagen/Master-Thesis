@@ -1,0 +1,4 @@
+H:\256_ObjectCategories\008.bathtub\008_0001.jpg
+H:\256_ObjectCategories\097.harmonica\097_0083.jpg
+H:\256_ObjectCategories\118.iris\118_0093.jpg
+H:\256_ObjectCategories\194.socks\194_0105.jpg

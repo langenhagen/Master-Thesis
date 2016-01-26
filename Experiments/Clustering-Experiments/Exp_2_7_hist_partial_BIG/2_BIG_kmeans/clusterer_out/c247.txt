@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\019.boxing-glove\019_0107.jpg
+H:\256_ObjectCategories\028.camel\028_0058.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0082.jpg
+H:\256_ObjectCategories\126.ladder\126_0034.jpg
+H:\256_ObjectCategories\143.minaret\143_0094.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0107.jpg
+H:\256_ObjectCategories\194.socks\194_0034.jpg
+H:\256_ObjectCategories\196.spaghetti\196_0076.jpg
+H:\256_ObjectCategories\205.superman\205_0038.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0127.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0036.jpg

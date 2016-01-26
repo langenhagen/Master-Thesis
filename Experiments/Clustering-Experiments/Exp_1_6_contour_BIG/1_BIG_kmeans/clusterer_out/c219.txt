@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0004.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0050.jpg
+H:\256_ObjectCategories\017.bowling-ball\017_0042.jpg
+H:\256_ObjectCategories\071.fire-hydrant\071_0080.jpg
+H:\256_ObjectCategories\073.fireworks\073_0081.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0059.jpg
+H:\256_ObjectCategories\103.hibiscus\103_0077.jpg
+H:\256_ObjectCategories\106.horseshoe-crab\106_0048.jpg
+H:\256_ObjectCategories\137.mars\137_0038.jpg
+H:\256_ObjectCategories\159.people\159_0021.jpg
+H:\256_ObjectCategories\238.video-projector\238_0046.jpg
+H:\256_ObjectCategories\253.faces-easy-101\253_0004.jpg

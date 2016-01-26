@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\031.car-tire\031_0047.jpg
+H:\256_ObjectCategories\069.fighter-jet\069_0066.jpg
+H:\256_ObjectCategories\069.fighter-jet\069_0095.jpg
+H:\256_ObjectCategories\074.flashlight\074_0008.jpg
+H:\256_ObjectCategories\074.flashlight\074_0092.jpg
+H:\256_ObjectCategories\081.frying-pan\081_0085.jpg
+H:\256_ObjectCategories\083.gas-pump\083_0078.jpg
+H:\256_ObjectCategories\097.harmonica\097_0036.jpg
+H:\256_ObjectCategories\097.harmonica\097_0070.jpg

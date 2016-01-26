@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\017.bowling-ball\017_0088.jpg
+H:\256_ObjectCategories\031.car-tire\031_0024.jpg
+H:\256_ObjectCategories\031.car-tire\031_0056.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0021.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0026.jpg
+H:\256_ObjectCategories\079.frisbee\079_0087.jpg
+H:\256_ObjectCategories\101.head-phones\101_0006.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0090.jpg
+H:\256_ObjectCategories\240.watch-101\240_0191.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0005.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0082.jpg

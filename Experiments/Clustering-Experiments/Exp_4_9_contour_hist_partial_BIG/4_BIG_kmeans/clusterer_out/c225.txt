@@ -1,0 +1,5 @@
+H:\256_ObjectCategories\017.bowling-ball\017_0050.jpg
+H:\256_ObjectCategories\031.car-tire\031_0012.jpg
+H:\256_ObjectCategories\033.cd\033_0024.jpg
+H:\256_ObjectCategories\183.sextant\183_0082.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0046.jpg

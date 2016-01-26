@@ -1,0 +1,8 @@
+H:\256_ObjectCategories\017.bowling-ball\017_0035.jpg
+H:\256_ObjectCategories\024.butterfly\024_0110.jpg
+H:\256_ObjectCategories\031.car-tire\031_0079.jpg
+H:\256_ObjectCategories\076.football-helmet\076_0046.jpg
+H:\256_ObjectCategories\076.football-helmet\076_0052.jpg
+H:\256_ObjectCategories\104.homer-simpson\104_0030.jpg
+H:\256_ObjectCategories\158.penguin\158_0148.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0158.jpg

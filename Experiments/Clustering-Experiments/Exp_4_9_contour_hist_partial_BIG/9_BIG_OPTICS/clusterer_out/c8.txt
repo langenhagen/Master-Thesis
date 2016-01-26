@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\007.bat\007_0007.jpg
+H:\256_ObjectCategories\014.blimp\014_0060.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0040.jpg
+H:\256_ObjectCategories\050.covered-wagon\050_0082.jpg
+H:\256_ObjectCategories\052.crab-101\052_0048.jpg
+H:\256_ObjectCategories\060.duck\060_0025.jpg
+H:\256_ObjectCategories\064.elephant-101\064_0048.jpg
+H:\256_ObjectCategories\066.ewer-101\066_0049.jpg
+H:\256_ObjectCategories\069.fighter-jet\069_0063.jpg
+H:\256_ObjectCategories\074.flashlight\074_0095.jpg
+H:\256_ObjectCategories\084.giraffe\084_0015.jpg
+H:\256_ObjectCategories\084.giraffe\084_0031.jpg

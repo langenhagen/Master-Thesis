@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\011.billiards\011_0192.jpg
+H:\256_ObjectCategories\019.boxing-glove\019_0082.jpg
+H:\256_ObjectCategories\051.cowboy-hat\051_0041.jpg
+H:\256_ObjectCategories\058.doorknob\058_0019.jpg
+H:\256_ObjectCategories\079.frisbee\079_0076.jpg
+H:\256_ObjectCategories\104.homer-simpson\104_0004.jpg

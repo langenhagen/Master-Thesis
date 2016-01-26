@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\014.blimp\014_0023.jpg
+H:\256_ObjectCategories\025.cactus\025_0082.jpg
+H:\256_ObjectCategories\029.cannon\029_0032.jpg
+H:\256_ObjectCategories\062.eiffel-tower\062_0051.jpg
+H:\256_ObjectCategories\068.fern\068_0038.jpg
+H:\256_ObjectCategories\084.giraffe\084_0071.jpg
+H:\256_ObjectCategories\091.grand-piano-101\091_0019.jpg
+H:\256_ObjectCategories\104.homer-simpson\104_0008.jpg
+H:\256_ObjectCategories\105.horse\105_0228.jpg
+H:\256_ObjectCategories\126.ladder\126_0089.jpg
+H:\256_ObjectCategories\141.microscope\141_0079.jpg
+H:\256_ObjectCategories\178.school-bus\178_0046.jpg
+H:\256_ObjectCategories\178.school-bus\178_0085.jpg
+H:\256_ObjectCategories\214.teepee\214_0076.jpg
+H:\256_ObjectCategories\216.tennis-ball\216_0007.jpg

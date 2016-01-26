@@ -1,0 +1,10 @@
+H:\256_ObjectCategories\002.american-flag\002_0038.jpg
+H:\256_ObjectCategories\031.car-tire\031_0056.jpg
+H:\256_ObjectCategories\033.cd\033_0002.jpg
+H:\256_ObjectCategories\033.cd\033_0016.jpg
+H:\256_ObjectCategories\079.frisbee\079_0033.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0055.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0172.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0090.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0052.jpg
+H:\256_ObjectCategories\240.watch-101\240_0106.jpg

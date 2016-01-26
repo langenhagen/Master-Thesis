@@ -1,0 +1,26 @@
+[15-07-09, 17:03:06][info]: *** program parameters ***
+[15-07-09, 17:03:06][info]: Config file: ..\Evaluation.cfg
+[15-07-09, 17:03:06][info]: Log file: ..\Evaluation.log
+[15-07-09, 17:03:06][info]: Mode: 1 aka precision_recall
+[15-07-09, 17:03:06][info]: Cluster file paths file: ..\c_class_files.txt
+[15-07-09, 17:03:06][info]: Membership probabilities file: ..\c_membership_probabilities.txt
+[15-07-09, 17:03:06][info]: Membership mappings file: ..\c_membership_mappings.txt
+[15-07-09, 17:03:06][info]: Image DB directory: H:\256_ObjectCategories
+[15-07-09, 17:03:06][info]: Posteriors file: ..\eval_posteriors.txt
+[15-07-09, 17:03:06][info]: Precision/recall file: ..\eval_precision_recall_file.txt
+[15-07-09, 17:03:06][info]: *** Program start ***
+[15-07-09, 17:03:06][info]: Mode: Precision / Recall
+[15-07-09, 17:03:06][info]: Loading class membership mappings...
+[15-07-09, 17:03:06][info]: # features: 2409
+[15-07-09, 17:03:06][info]: # clusters: 6
+[15-07-09, 17:03:06][info]: calculating precision / recall ...
+[15-07-09, 17:03:06][info]: <class name> <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-09, 17:03:06][info]: 145.motorbikes-101 9 1 789 0.9 0.0112782
+[15-07-09, 17:03:06][info]: 145.motorbikes-101 2 0 796 1 0.00250627
+[15-07-09, 17:03:06][info]: 145.motorbikes-101 654 705 144 0.481236 0.819549
+[15-07-09, 17:03:06][info]: 129.leopards-101 13 1 177 0.928571 0.0684211
+[15-07-09, 17:03:07][info]: 253.faces-easy-101 211 813 224 0.206055 0.485057
+[15-07-09, 17:03:07][info]: Average: <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-09, 17:03:07][info]: 177.8 304 426 0.703172 0.277362
+[15-07-09, 17:03:07][info]: Writing stats to file "..\eval_precision_recall_file.txt"...
+[15-07-09, 17:03:07][info]: *** Program end ***

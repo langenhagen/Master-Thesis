@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\002.american-flag\002_0026.jpg
+H:\256_ObjectCategories\020.brain-101\020_0039.jpg
+H:\256_ObjectCategories\035.cereal-box\035_0071.jpg
+H:\256_ObjectCategories\060.duck\060_0054.jpg
+H:\256_ObjectCategories\074.flashlight\074_0101.jpg
+H:\256_ObjectCategories\133.lightning\133_0054.jpg
+H:\256_ObjectCategories\167.pyramid\167_0056.jpg
+H:\256_ObjectCategories\167.pyramid\167_0082.jpg
+H:\256_ObjectCategories\194.socks\194_0030.jpg
+H:\256_ObjectCategories\235.umbrella-101\235_0057.jpg
+H:\256_ObjectCategories\247.xylophone\247_0018.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0009.jpg

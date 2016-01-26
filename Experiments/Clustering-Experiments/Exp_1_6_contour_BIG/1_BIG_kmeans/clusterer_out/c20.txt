@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\017.bowling-ball\017_0050.jpg
+H:\256_ObjectCategories\020.brain-101\020_0081.jpg
+H:\256_ObjectCategories\033.cd\033_0024.jpg
+H:\256_ObjectCategories\033.cd\033_0083.jpg
+H:\256_ObjectCategories\043.coin\043_0026.jpg
+H:\256_ObjectCategories\043.coin\043_0066.jpg
+H:\256_ObjectCategories\061.dumb-bell\061_0013.jpg
+H:\256_ObjectCategories\079.frisbee\079_0071.jpg
+H:\256_ObjectCategories\079.frisbee\079_0099.jpg
+H:\256_ObjectCategories\137.mars\137_0044.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0045.jpg
+H:\256_ObjectCategories\216.tennis-ball\216_0098.jpg
+H:\256_ObjectCategories\239.washing-machine\239_0024.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0019.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0064.jpg

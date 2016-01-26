@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0148.jpg
+H:\256_ObjectCategories\010.beer-mug\010_0049.jpg
+H:\256_ObjectCategories\019.boxing-glove\019_0091.jpg
+H:\256_ObjectCategories\032.cartman\032_0047.jpg
+H:\256_ObjectCategories\058.doorknob\058_0052.jpg
+H:\256_ObjectCategories\070.fire-extinguisher\070_0006.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0014.jpg
+H:\256_ObjectCategories\096.hammock\096_0136.jpg
+H:\256_ObjectCategories\120.joy-stick\120_0036.jpg
+H:\256_ObjectCategories\133.lightning\133_0021.jpg
+H:\256_ObjectCategories\199.spoon\199_0054.jpg
+H:\256_ObjectCategories\240.watch-101\240_0053.jpg
+H:\256_ObjectCategories\240.watch-101\240_0199.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0715.jpg
+H:\256_ObjectCategories\253.faces-easy-101\253_0319.jpg

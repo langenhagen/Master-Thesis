@@ -1,0 +1,10 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0082.jpg
+H:\256_ObjectCategories\018.bowling-pin\018_0088.jpg
+H:\256_ObjectCategories\031.car-tire\031_0088.jpg
+H:\256_ObjectCategories\032.cartman\032_0078.jpg
+H:\256_ObjectCategories\042.coffin\042_0081.jpg
+H:\256_ObjectCategories\090.gorilla\090_0043.jpg
+H:\256_ObjectCategories\195.soda-can\195_0047.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0127.jpg
+H:\256_ObjectCategories\238.video-projector\238_0001.jpg
+H:\256_ObjectCategories\252.car-side-101\252_0002.jpg

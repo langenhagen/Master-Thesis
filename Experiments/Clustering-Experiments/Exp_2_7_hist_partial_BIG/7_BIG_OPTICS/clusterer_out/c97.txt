@@ -1,0 +1,13 @@
+H:\256_ObjectCategories\035.cereal-box\035_0026.jpg
+H:\256_ObjectCategories\047.computer-mouse\047_0047.jpg
+H:\256_ObjectCategories\083.gas-pump\083_0079.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0039.jpg
+H:\256_ObjectCategories\100.hawksbill-101\100_0082.jpg
+H:\256_ObjectCategories\104.homer-simpson\104_0001.jpg
+H:\256_ObjectCategories\130.license-plate\130_0045.jpg
+H:\256_ObjectCategories\130.license-plate\130_0071.jpg
+H:\256_ObjectCategories\146.mountain-bike\146_0050.jpg
+H:\256_ObjectCategories\149.necktie\149_0083.jpg
+H:\256_ObjectCategories\153.palm-pilot\153_0082.jpg
+H:\256_ObjectCategories\156.paper-shredder\156_0009.jpg
+H:\256_ObjectCategories\160.pez-dispenser\160_0034.jpg

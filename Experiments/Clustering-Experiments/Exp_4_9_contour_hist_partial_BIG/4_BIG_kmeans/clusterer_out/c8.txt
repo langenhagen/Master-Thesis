@@ -1,0 +1,4 @@
+H:\256_ObjectCategories\019.boxing-glove\019_0062.jpg
+H:\256_ObjectCategories\059.drinking-straw\059_0055.jpg
+H:\256_ObjectCategories\210.syringe\210_0111.jpg
+H:\256_ObjectCategories\255.tennis-shoes\255_0018.jpg

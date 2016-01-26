@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\002.american-flag\002_0035.jpg
+H:\256_ObjectCategories\097.harmonica\097_0012.jpg
+H:\256_ObjectCategories\097.harmonica\097_0018.jpg
+H:\256_ObjectCategories\145.motorbikes-101\145_0628.jpg
+H:\256_ObjectCategories\171.refrigerator\171_0064.jpg
+H:\256_ObjectCategories\180.screwdriver\180_0069.jpg
+H:\256_ObjectCategories\218.tennis-racket\218_0020.jpg
+H:\256_ObjectCategories\239.washing-machine\239_0021.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0062.jpg

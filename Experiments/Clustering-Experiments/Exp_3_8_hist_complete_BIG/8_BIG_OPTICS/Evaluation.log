@@ -1,0 +1,55 @@
+[15-07-08, 23:59:07][info]: *** program parameters ***
+[15-07-08, 23:59:07][info]: Config file: ..\Evaluation.cfg
+[15-07-08, 23:59:07][info]: Log file: ..\Evaluation.log
+[15-07-08, 23:59:07][info]: Mode: 1 aka precision_recall
+[15-07-08, 23:59:07][info]: Cluster file paths file: ..\c_class_files.txt
+[15-07-08, 23:59:07][info]: Membership probabilities file: ..\c_membership_probabilities.txt
+[15-07-08, 23:59:07][info]: Membership mappings file: ..\c_membership_mappings.txt
+[15-07-08, 23:59:07][info]: Image DB directory: H:\256_ObjectCategories
+[15-07-08, 23:59:07][info]: Posteriors file: ..\eval_posteriors.txt
+[15-07-08, 23:59:07][info]: Precision/recall file: ..\eval_precision_recall_file.txt
+[15-07-08, 23:59:07][info]: *** Program start ***
+[15-07-08, 23:59:07][info]: Mode: Precision / Recall
+[15-07-08, 23:59:07][info]: Loading class membership mappings...
+[15-07-08, 23:59:07][info]: # features: 28257
+[15-07-08, 23:59:07][info]: # clusters: 35
+[15-07-08, 23:59:07][info]: calculating precision / recall ...
+[15-07-08, 23:59:19][info]: <class name> <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-08, 23:59:19][info]: 001.ak47 1 4 97 0.2 0.0102041
+[15-07-08, 23:59:19][info]: 008.bathtub 2 1 230 0.666667 0.00862069
+[15-07-08, 23:59:19][info]: 004.baseball-bat 1 1 126 0.5 0.00787402
+[15-07-08, 23:59:19][info]: 027.calculator 2 4 98 0.333333 0.02
+[15-07-08, 23:59:19][info]: 016.boom-box 2 4 89 0.333333 0.021978
+[15-07-08, 23:59:19][info]: 003.backpack 3 6 148 0.333333 0.0198676
+[15-07-08, 23:59:19][info]: 003.backpack 1 1 150 0.5 0.00662252
+[15-07-08, 23:59:19][info]: 004.baseball-bat 3 3 124 0.5 0.023622
+[15-07-08, 23:59:19][info]: 004.baseball-bat 3 0 124 1 0.023622
+[15-07-08, 23:59:19][info]: 004.baseball-bat 6 0 121 1 0.0472441
+[15-07-08, 23:59:19][info]: 145.motorbikes-101 472 4367 326 0.0975408 0.591479
+[15-07-08, 23:59:19][info]: 145.motorbikes-101 32 282 766 0.101911 0.0401003
+[15-07-08, 23:59:19][info]: 145.motorbikes-101 136 2686 662 0.0481928 0.170426
+[15-07-08, 23:59:19][info]: 005.baseball-glove 2 2 146 0.5 0.0135135
+[15-07-08, 23:59:19][info]: 251.airplanes-101 9 267 791 0.0326087 0.01125
+[15-07-08, 23:59:19][info]: 012.binoculars 2 6 214 0.25 0.00925926
+[15-07-08, 23:59:19][info]: 074.flashlight 3 23 112 0.115385 0.026087
+[15-07-08, 23:59:19][info]: 251.airplanes-101 15 495 785 0.0294118 0.01875
+[15-07-08, 23:59:19][info]: 251.airplanes-101 19 672 781 0.0274964 0.02375
+[15-07-08, 23:59:19][info]: 008.bathtub 17 540 215 0.0305206 0.0732759
+[15-07-08, 23:59:19][info]: 058.doorknob 1 6 92 0.142857 0.0107527
+[15-07-08, 23:59:19][info]: 252.car-side-101 10 1 106 0.909091 0.0862069
+[15-07-08, 23:59:19][info]: 252.car-side-101 86 251 30 0.255193 0.741379
+[15-07-08, 23:59:19][info]: 251.airplanes-101 24 472 776 0.0483871 0.03
+[15-07-08, 23:59:19][info]: 251.airplanes-101 34 945 766 0.0347293 0.0425
+[15-07-08, 23:59:19][info]: 168.raccoon 3 24 137 0.111111 0.0214286
+[15-07-08, 23:59:19][info]: 253.faces-easy-101 10 32 425 0.238095 0.0229885
+[15-07-08, 23:59:19][info]: 093.grasshopper 2 21 110 0.0869565 0.0178571
+[15-07-08, 23:59:19][info]: 251.airplanes-101 39 688 761 0.0536451 0.04875
+[15-07-08, 23:59:19][info]: 253.faces-easy-101 153 3658 282 0.0401469 0.351724
+[15-07-08, 23:59:19][info]: 251.airplanes-101 54 765 746 0.0659341 0.0675
+[15-07-08, 23:59:19][info]: 251.airplanes-101 215 6398 585 0.0325117 0.26875
+[15-07-08, 23:59:19][info]: 251.airplanes-101 141 2257 659 0.058799 0.17625
+[15-07-08, 23:59:19][info]: 133.lightning 49 1823 87 0.0261752 0.360294
+[15-07-08, 23:59:19][info]: Average: <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-08, 23:59:19][info]: 45.6471 785.441 343.147 0.255981 0.10041
+[15-07-08, 23:59:19][info]: Writing stats to file "..\eval_precision_recall_file.txt"...
+[15-07-08, 23:59:19][info]: *** Program end ***

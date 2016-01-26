@@ -1,0 +1,35 @@
+[15-07-08, 23:41:39][info]: *** program parameters ***
+[15-07-08, 23:41:39][info]: Config file: ..\Evaluation.cfg
+[15-07-08, 23:41:39][info]: Log file: ..\Evaluation.log
+[15-07-08, 23:41:39][info]: Mode: 1 aka precision_recall
+[15-07-08, 23:41:39][info]: Cluster file paths file: ..\c_class_files.txt
+[15-07-08, 23:41:39][info]: Membership probabilities file: ..\c_membership_probabilities.txt
+[15-07-08, 23:41:39][info]: Membership mappings file: ..\c_membership_mappings.txt
+[15-07-08, 23:41:39][info]: Image DB directory: H:\256_ObjectCategories
+[15-07-08, 23:41:39][info]: Posteriors file: ..\eval_posteriors.txt
+[15-07-08, 23:41:39][info]: Precision/recall file: ..\eval_precision_recall_file.txt
+[15-07-08, 23:41:39][info]: *** Program start ***
+[15-07-08, 23:41:39][info]: Mode: Precision / Recall
+[15-07-08, 23:41:39][info]: Loading class membership mappings...
+[15-07-08, 23:41:39][info]: # features: 2408
+[15-07-08, 23:41:39][info]: # clusters: 15
+[15-07-08, 23:41:39][info]: calculating precision / recall ...
+[15-07-08, 23:41:39][info]: <class name> <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-08, 23:41:39][info]: 015.bonsai-101 3 0 119 1 0.0245902
+[15-07-08, 23:41:39][info]: 015.bonsai-101 5 2 117 0.714286 0.0409836
+[15-07-08, 23:41:39][info]: 015.bonsai-101 2 1 120 0.666667 0.0163934
+[15-07-08, 23:41:39][info]: 015.bonsai-101 2 1 120 0.666667 0.0163934
+[15-07-08, 23:41:39][info]: 015.bonsai-101 2 4 120 0.333333 0.0163934
+[15-07-08, 23:41:39][info]: 015.bonsai-101 1 1 121 0.5 0.00819672
+[15-07-08, 23:41:39][info]: 022.buddha-101 3 4 94 0.428571 0.0309278
+[15-07-08, 23:41:39][info]: 091.grand-piano-101 1 2 94 0.333333 0.0105263
+[15-07-08, 23:41:39][info]: 114.ibis-101 3 0 117 1 0.025
+[15-07-08, 23:41:39][info]: 114.ibis-101 3 3 117 0.5 0.025
+[15-07-08, 23:41:39][info]: 114.ibis-101 5 4 115 0.555556 0.0416667
+[15-07-08, 23:41:39][info]: 114.ibis-101 4 2 116 0.666667 0.0333333
+[15-07-08, 23:41:39][info]: 114.ibis-101 9 16 111 0.36 0.075
+[15-07-08, 23:41:39][info]: 145.motorbikes-101 746 1579 52 0.32086 0.934837
+[15-07-08, 23:41:39][info]: Average: <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-08, 23:41:40][info]: 56.3571 115.643 109.5 0.57471 0.092803
+[15-07-08, 23:41:40][info]: Writing stats to file "..\eval_precision_recall_file.txt"...
+[15-07-08, 23:41:40][info]: *** Program end ***

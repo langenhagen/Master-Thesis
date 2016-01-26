@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\012.binoculars\012_0090.jpg
+H:\256_ObjectCategories\071.fire-hydrant\071_0058.jpg
+H:\256_ObjectCategories\083.gas-pump\083_0089.jpg
+H:\256_ObjectCategories\105.horse\105_0012.jpg
+H:\256_ObjectCategories\111.house-fly\111_0002.jpg
+H:\256_ObjectCategories\201.starfish-101\201_0043.jpg
+H:\256_ObjectCategories\212.teapot\212_0080.jpg
+H:\256_ObjectCategories\224.touring-bike\224_0053.jpg
+H:\256_ObjectCategories\225.tower-pisa\225_0064.jpg

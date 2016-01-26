@@ -1,0 +1,17 @@
+H:\256_ObjectCategories\017.bowling-ball\017_0058.jpg
+H:\256_ObjectCategories\017.bowling-ball\017_0077.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0117.jpg
+H:\256_ObjectCategories\048.conch\048_0099.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0018.jpg
+H:\256_ObjectCategories\081.frying-pan\081_0027.jpg
+H:\256_ObjectCategories\105.horse\105_0269.jpg
+H:\256_ObjectCategories\112.human-skeleton\112_0018.jpg
+H:\256_ObjectCategories\127.laptop-101\127_0014.jpg
+H:\256_ObjectCategories\186.skunk\186_0015.jpg
+H:\256_ObjectCategories\196.spaghetti\196_0008.jpg
+H:\256_ObjectCategories\196.spaghetti\196_0101.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0030.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0060.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0075.jpg
+H:\256_ObjectCategories\240.watch-101\240_0027.jpg
+H:\256_ObjectCategories\253.faces-easy-101\253_0012.jpg

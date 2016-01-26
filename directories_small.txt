@@ -1,0 +1,14 @@
+H:\256_ObjectCategories\015.bonsai-101
+H:\256_ObjectCategories\022.buddha-101
+H:\256_ObjectCategories\091.grand-piano-101
+H:\256_ObjectCategories\114.ibis-101
+H:\256_ObjectCategories\118.iris
+H:\256_ObjectCategories\121.kangaroo-101
+H:\256_ObjectCategories\123.ketch-101
+H:\256_ObjectCategories\129.leopards-101
+H:\256_ObjectCategories\137.mars
+H:\256_ObjectCategories\145.motorbikes-101
+H:\256_ObjectCategories\172.revolver-101
+H:\256_ObjectCategories\201.starfish-101
+H:\256_ObjectCategories\204.sunflower-101
+H:\256_ObjectCategories\253.faces-easy-101

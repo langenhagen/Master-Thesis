@@ -1,0 +1,66 @@
+[15-07-09, 17:02:51][info]: *** program parameters ***
+[15-07-09, 17:02:51][info]: Config file: ..\Clusterer.cfg
+[15-07-09, 17:02:51][info]: Log file: ..\Clusterer.log
+[15-07-09, 17:02:51][info]: Output directory: ..\clusterer_out
+[15-07-09, 17:02:51][info]: Feature vector file: ..\fg_features.txt
+[15-07-09, 17:02:51][info]: "path to images"-file: ..\fg_processed_images.txt
+[15-07-09, 17:02:51][info]: Clusterer type: 3 aka optics
+[15-07-09, 17:02:51][info]: Clusterer tweak vector: [0; 0; 50; 20; 0]
+[15-07-09, 17:02:51][info]: Membership probabilities file: ..\c_membership_probabilities.txt
+[15-07-09, 17:02:51][info]: Membership mappings file: ..\c_membership_mappings.txt
+[15-07-09, 17:02:51][info]: Cluster means file: cluster_means.txt
+[15-07-09, 17:02:51][info]: Result file prefix: c
+[15-07-09, 17:02:51][info]: Result file paths file: ..\c_class_files.txt
+[15-07-09, 17:02:51][info]: Symlink results: no
+[15-07-09, 17:02:51][info]: Symlink saliency maps: no
+[15-07-09, 17:02:51][info]: Saliency maps file: ..\fg_saliency_maps.txt
+[15-07-09, 17:02:51][info]: *** supported clusterer types ***
+[15-07-09, 17:02:51][info]: FLANNKMEANS, OUTLIER, OPTICS
+[15-07-09, 17:02:51][info]: *** Program start ***
+[15-07-09, 17:02:51][info]: Deleting old output files...
+[15-07-09, 17:02:51][info]: Loading feature vectors...
+[15-07-09, 17:02:52][info]: Loading image filenames...
+[15-07-09, 17:02:52][info]: Clustering 2409 feature vectors with 68 dimensions each...
+[15-07-09, 17:02:52][warning]: OPTICSClusterer: Tweak vector must contain 5 parameters:
+0: 1 number specifying the behaviour: 0: find n clusters    or    1: find all clusters with high persistence at peaks
+1: the epsilon optics parameter, if zero or negative, epsilon will be set to 3.40282e+038
+2: the min_pts optics parameter, a positive integer; will otherwise be set to 1% of the size of the input data set
+3: the number of clusters, if parameter 0 is set to '0'    or    the persistence value if parameter 0 is set to '1'
+4: the outlier threshold: must be positive, will be set to 3.40282e+038 otherwise
+[15-07-09, 17:02:52][notification]: Setting epsilon to 3.40282e+038.
+[15-07-09, 17:02:52][notification]: Setting outlier threshold value to 3.40282e+038.
+[15-07-09, 17:02:53][info]: OPTICSClusterer: 4.15% (100/2409) done.
+[15-07-09, 17:02:53][info]: OPTICSClusterer: 8.3% (200/2409) done.
+[15-07-09, 17:02:54][info]: OPTICSClusterer: 12.45% (300/2409) done.
+[15-07-09, 17:02:54][info]: OPTICSClusterer: 16.6% (400/2409) done.
+[15-07-09, 17:02:54][info]: OPTICSClusterer: 20.76% (500/2409) done.
+[15-07-09, 17:02:55][info]: OPTICSClusterer: 24.91% (600/2409) done.
+[15-07-09, 17:02:55][info]: OPTICSClusterer: 29.06% (700/2409) done.
+[15-07-09, 17:02:55][info]: OPTICSClusterer: 33.21% (800/2409) done.
+[15-07-09, 17:02:56][info]: OPTICSClusterer: 37.36% (900/2409) done.
+[15-07-09, 17:02:56][info]: OPTICSClusterer: 41.51% (1000/2409) done.
+[15-07-09, 17:02:56][info]: OPTICSClusterer: 45.66% (1100/2409) done.
+[15-07-09, 17:02:57][info]: OPTICSClusterer: 49.81% (1200/2409) done.
+[15-07-09, 17:02:57][info]: OPTICSClusterer: 53.96% (1300/2409) done.
+[15-07-09, 17:02:57][info]: OPTICSClusterer: 58.12% (1400/2409) done.
+[15-07-09, 17:02:58][info]: OPTICSClusterer: 62.27% (1500/2409) done.
+[15-07-09, 17:02:58][info]: OPTICSClusterer: 66.42% (1600/2409) done.
+[15-07-09, 17:02:58][info]: OPTICSClusterer: 70.57% (1700/2409) done.
+[15-07-09, 17:02:59][info]: OPTICSClusterer: 74.72% (1800/2409) done.
+[15-07-09, 17:02:59][info]: OPTICSClusterer: 78.87% (1900/2409) done.
+[15-07-09, 17:02:59][info]: OPTICSClusterer: 83.02% (2000/2409) done.
+[15-07-09, 17:02:59][info]: OPTICSClusterer: 87.17% (2100/2409) done.
+[15-07-09, 17:03:00][info]: OPTICSClusterer: 91.32% (2200/2409) done.
+[15-07-09, 17:03:00][info]: OPTICSClusterer: 95.48% (2300/2409) done.
+[15-07-09, 17:03:00][info]: OPTICSClusterer: 99.63% (2400/2409) done.
+[15-07-09, 17:03:00][info]: OPTICSClusterer: Writing reachability histogram to "optics_reachability_distances.txt"...
+[15-07-09, 17:03:00][info]: OPTICSClusterer: Writing ordered indices to "optics_ordered_feature_indices.txt"...
+[15-07-09, 17:03:01][info]: Clustering finished. Took 8882 milliseconds.
+[15-07-09, 17:03:01][info]: Found 6 clusters
+[15-07-09, 17:03:01][info]: Writing membership probabilities to "..\c_membership_probabilities.txt"...
+[15-07-09, 17:03:01][info]: Writing cluster membership mappings to "..\c_membership_mappings.txt"...
+[15-07-09, 17:03:01][info]: Calculating cluster means...
+[15-07-09, 17:03:01][info]: Writing Cluster means to "cluster_means.txt"...
+[15-07-09, 17:03:01][info]: Writing clusters to files...
+[15-07-09, 17:03:01][info]: Writing paths of all cluster files to "..\c_class_files.txt"...
+[15-07-09, 17:03:01][info]: *** Program end ***

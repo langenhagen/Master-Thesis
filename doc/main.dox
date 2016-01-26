@@ -1,0 +1,38 @@
+/*!
+\mainpage 
+
+
+"The Unsupervised Detection of Salient Regions in Image Databases" provides a solution to find
+salient regions of images in image databases. Through the salient regions a clustering of the images
+is made possible in order to organize the images or to find outstanding images.
+
+There are three C++ applications. The "FeatureGenerator", the "Clusterer" and the "Evaluation" application.
+The solution one other project named "Common" that maintains public functions of broad usage.
+
+The solution is written in the course of of the master thesis 
+"The Unsupervised Detection of Salient Regions in Image Databases" by Andreas Langenhagen
+for the Computer Vision department at the computer science faculty at TU Berlin.
+
+
+You may use it as you wish, it is in the public domain.
+	
+
+##Getting Started
+The first application that should be used is the FeatureGenerator. It creates descriptors to all specified image files.
+
+The Clusterer structurizes the images according to a feature vector clustering.
+
+The Evaluation software enables evaluating the clustering results.
+
+
+Information about the usage of the applications can be found in the <A HREF="..\..\README.txt">README</A> file.
+
+##External libraries
+
+The logging module uses the rlutil library by Tapio Vierros
+
+The OPTICS clustering class relies on the external library Persistence1D by Yeara Kozlov and 
+<A HREF="http://www.mpi-inf.mpg.de/~weinkauf/">Tino Weinkauf</A>, Max Planck Institute for Informatics, Saarbrücken, Germany.
+
+
+*/

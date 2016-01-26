@@ -1,0 +1,8 @@
+H:\256_ObjectCategories\101.head-phones\101_0075.jpg
+H:\256_ObjectCategories\175.roulette-wheel\175_0030.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0036.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0042.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0070.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0084.jpg
+H:\256_ObjectCategories\216.tennis-ball\216_0068.jpg
+H:\256_ObjectCategories\248.yarmulke\248_0040.jpg

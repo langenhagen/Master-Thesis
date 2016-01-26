@@ -1,0 +1,7 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0090.jpg
+H:\256_ObjectCategories\015.bonsai-101\015_0110.jpg
+H:\256_ObjectCategories\118.iris\118_0065.jpg
+H:\256_ObjectCategories\181.segway\181_0034.jpg
+H:\256_ObjectCategories\192.snowmobile\192_0001.jpg
+H:\256_ObjectCategories\231.tripod\231_0008.jpg
+H:\256_ObjectCategories\241.waterfall\241_0072.jpg

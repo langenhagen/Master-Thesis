@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\evaluation_main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\program_options.hpp" />
+    <ClInclude Include="src\evaluation_mode.hpp" />
+    <ClInclude Include="src\bayes_test.hpp" />
+    <ClInclude Include="src\precision_recall_test.hpp" />
+  </ItemGroup>
+</Project>

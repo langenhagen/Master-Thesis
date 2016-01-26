@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0017.jpg
+H:\256_ObjectCategories\012.binoculars\012_0087.jpg
+H:\256_ObjectCategories\043.coin\043_0119.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0118.jpg
+H:\256_ObjectCategories\174.rotary-phone\174_0052.jpg
+H:\256_ObjectCategories\195.soda-can\195_0080.jpg

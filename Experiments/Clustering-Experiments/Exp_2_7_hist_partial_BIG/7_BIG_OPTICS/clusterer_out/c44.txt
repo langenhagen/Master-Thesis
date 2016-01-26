@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\064.elephant-101\064_0089.jpg
+H:\256_ObjectCategories\118.iris\118_0052.jpg
+H:\256_ObjectCategories\136.mandolin\136_0062.jpg
+H:\256_ObjectCategories\146.mountain-bike\146_0043.jpg
+H:\256_ObjectCategories\148.mussels\148_0044.jpg
+H:\256_ObjectCategories\148.mussels\148_0168.jpg
+H:\256_ObjectCategories\149.necktie\149_0067.jpg
+H:\256_ObjectCategories\152.owl\152_0072.jpg
+H:\256_ObjectCategories\158.penguin\158_0025.jpg
+H:\256_ObjectCategories\159.people\159_0181.jpg
+H:\256_ObjectCategories\163.playing-card\163_0086.jpg
+H:\256_ObjectCategories\173.rifle\173_0046.jpg

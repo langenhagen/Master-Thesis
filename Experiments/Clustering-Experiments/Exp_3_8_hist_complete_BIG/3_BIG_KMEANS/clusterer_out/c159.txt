@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\004.baseball-bat\004_0027.jpg
+H:\256_ObjectCategories\037.chess-board\037_0099.jpg
+H:\256_ObjectCategories\073.fireworks\073_0095.jpg
+H:\256_ObjectCategories\082.galaxy\082_0075.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0014.jpg
+H:\256_ObjectCategories\116.iguana\116_0046.jpg
+H:\256_ObjectCategories\125.knife\125_0001.jpg
+H:\256_ObjectCategories\159.people\159_0069.jpg
+H:\256_ObjectCategories\159.people\159_0185.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0065.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0020.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0081.jpg

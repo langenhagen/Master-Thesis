@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\009.bear\009_0068.jpg
+H:\256_ObjectCategories\013.birdbath\013_0017.jpg
+H:\256_ObjectCategories\014.blimp\014_0008.jpg
+H:\256_ObjectCategories\014.blimp\014_0019.jpg
+H:\256_ObjectCategories\018.bowling-pin\018_0008.jpg
+H:\256_ObjectCategories\044.comet\044_0094.jpg
+H:\256_ObjectCategories\048.conch\048_0063.jpg
+H:\256_ObjectCategories\076.football-helmet\076_0014.jpg
+H:\256_ObjectCategories\087.goldfish\087_0056.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0038.jpg
+H:\256_ObjectCategories\097.harmonica\097_0020.jpg
+H:\256_ObjectCategories\099.harpsichord\099_0064.jpg
+H:\256_ObjectCategories\105.horse\105_0252.jpg
+H:\256_ObjectCategories\109.hot-tub\109_0007.jpg
+H:\256_ObjectCategories\147.mushroom\147_0004.jpg

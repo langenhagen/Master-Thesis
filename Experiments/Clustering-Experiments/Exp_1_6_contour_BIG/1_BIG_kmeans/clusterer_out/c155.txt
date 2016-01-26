@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\017.bowling-ball\017_0085.jpg
+H:\256_ObjectCategories\017.bowling-ball\017_0095.jpg
+H:\256_ObjectCategories\017.bowling-ball\017_0101.jpg
+H:\256_ObjectCategories\033.cd\033_0052.jpg
+H:\256_ObjectCategories\043.coin\043_0031.jpg
+H:\256_ObjectCategories\043.coin\043_0096.jpg
+H:\256_ObjectCategories\077.french-horn\077_0017.jpg
+H:\256_ObjectCategories\079.frisbee\079_0059.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0036.jpg
+H:\256_ObjectCategories\175.roulette-wheel\175_0017.jpg
+H:\256_ObjectCategories\240.watch-101\240_0112.jpg

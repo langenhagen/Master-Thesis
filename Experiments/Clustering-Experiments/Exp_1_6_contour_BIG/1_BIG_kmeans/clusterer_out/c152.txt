@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\003.backpack\003_0112.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0145.jpg
+H:\256_ObjectCategories\035.cereal-box\035_0006.jpg
+H:\256_ObjectCategories\036.chandelier-101\036_0019.jpg
+H:\256_ObjectCategories\066.ewer-101\066_0017.jpg
+H:\256_ObjectCategories\223.top-hat\223_0016.jpg

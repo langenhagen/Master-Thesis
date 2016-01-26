@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0052.jpg
+H:\256_ObjectCategories\015.bonsai-101\015_0019.jpg
+H:\256_ObjectCategories\063.electric-guitar-101\063_0090.jpg
+H:\256_ObjectCategories\068.fern\068_0023.jpg
+H:\256_ObjectCategories\129.leopards-101\129_0167.jpg
+H:\256_ObjectCategories\145.motorbikes-101\145_0239.jpg
+H:\256_ObjectCategories\149.necktie\149_0012.jpg
+H:\256_ObjectCategories\151.ostrich\151_0011.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0147.jpg
+H:\256_ObjectCategories\230.trilobite-101\230_0069.jpg
+H:\256_ObjectCategories\241.waterfall\241_0049.jpg

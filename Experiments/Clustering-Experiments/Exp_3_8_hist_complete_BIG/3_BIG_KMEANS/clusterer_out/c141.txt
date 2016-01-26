@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\007.bat\007_0033.jpg
+H:\256_ObjectCategories\044.comet\044_0012.jpg
+H:\256_ObjectCategories\047.computer-mouse\047_0031.jpg
+H:\256_ObjectCategories\063.electric-guitar-101\063_0104.jpg
+H:\256_ObjectCategories\073.fireworks\073_0083.jpg
+H:\256_ObjectCategories\082.galaxy\082_0036.jpg
+H:\256_ObjectCategories\090.gorilla\090_0202.jpg
+H:\256_ObjectCategories\137.mars\137_0077.jpg
+H:\256_ObjectCategories\209.sword\209_0010.jpg
+H:\256_ObjectCategories\213.teddy-bear\213_0011.jpg
+H:\256_ObjectCategories\214.teepee\214_0041.jpg
+H:\256_ObjectCategories\214.teepee\214_0093.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0117.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0136.jpg
+H:\256_ObjectCategories\234.tweezer\234_0032.jpg

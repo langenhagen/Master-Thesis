@@ -1,0 +1,16 @@
+H:\256_ObjectCategories\004.baseball-bat\004_0088.jpg
+H:\256_ObjectCategories\007.bat\007_0040.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0083.jpg
+H:\256_ObjectCategories\051.cowboy-hat\051_0021.jpg
+H:\256_ObjectCategories\093.grasshopper\093_0064.jpg
+H:\256_ObjectCategories\132.light-house\132_0175.jpg
+H:\256_ObjectCategories\145.motorbikes-101\145_0677.jpg
+H:\256_ObjectCategories\153.palm-pilot\153_0015.jpg
+H:\256_ObjectCategories\153.palm-pilot\153_0027.jpg
+H:\256_ObjectCategories\166.praying-mantis\166_0059.jpg
+H:\256_ObjectCategories\188.smokestack\188_0060.jpg
+H:\256_ObjectCategories\197.speed-boat\197_0031.jpg
+H:\256_ObjectCategories\205.superman\205_0051.jpg
+H:\256_ObjectCategories\237.vcr\237_0076.jpg
+H:\256_ObjectCategories\246.wine-bottle\246_0049.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0032.jpg

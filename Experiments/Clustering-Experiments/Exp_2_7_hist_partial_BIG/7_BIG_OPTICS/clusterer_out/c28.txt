@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\001.ak47\001_0007.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0085.jpg
+H:\256_ObjectCategories\008.bathtub\008_0102.jpg
+H:\256_ObjectCategories\028.camel\028_0040.jpg
+H:\256_ObjectCategories\033.cd\033_0030.jpg
+H:\256_ObjectCategories\057.dolphin-101\057_0080.jpg
+H:\256_ObjectCategories\062.eiffel-tower\062_0042.jpg
+H:\256_ObjectCategories\084.giraffe\084_0054.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0065.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0096.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0047.jpg

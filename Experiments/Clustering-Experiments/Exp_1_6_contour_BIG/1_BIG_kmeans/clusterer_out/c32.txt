@@ -1,0 +1,14 @@
+H:\256_ObjectCategories\097.harmonica\097_0018.jpg
+H:\256_ObjectCategories\097.harmonica\097_0069.jpg
+H:\256_ObjectCategories\099.harpsichord\099_0040.jpg
+H:\256_ObjectCategories\108.hot-dog\108_0080.jpg
+H:\256_ObjectCategories\136.mandolin\136_0081.jpg
+H:\256_ObjectCategories\145.motorbikes-101\145_0440.jpg
+H:\256_ObjectCategories\145.motorbikes-101\145_0487.jpg
+H:\256_ObjectCategories\218.tennis-racket\218_0020.jpg
+H:\256_ObjectCategories\233.tuning-fork\233_0020.jpg
+H:\256_ObjectCategories\233.tuning-fork\233_0084.jpg
+H:\256_ObjectCategories\233.tuning-fork\233_0092.jpg
+H:\256_ObjectCategories\234.tweezer\234_0013.jpg
+H:\256_ObjectCategories\237.vcr\237_0032.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0062.jpg

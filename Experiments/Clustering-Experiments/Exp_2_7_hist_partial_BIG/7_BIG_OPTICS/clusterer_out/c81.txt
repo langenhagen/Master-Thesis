@@ -1,0 +1,14 @@
+H:\256_ObjectCategories\003.backpack\003_0014.jpg
+H:\256_ObjectCategories\004.baseball-bat\004_0001.jpg
+H:\256_ObjectCategories\012.binoculars\012_0042.jpg
+H:\256_ObjectCategories\016.boom-box\016_0079.jpg
+H:\256_ObjectCategories\019.boxing-glove\019_0011.jpg
+H:\256_ObjectCategories\031.car-tire\031_0061.jpg
+H:\256_ObjectCategories\038.chimp\038_0110.jpg
+H:\256_ObjectCategories\045.computer-keyboard\045_0046.jpg
+H:\256_ObjectCategories\047.computer-mouse\047_0048.jpg
+H:\256_ObjectCategories\049.cormorant\049_0061.jpg
+H:\256_ObjectCategories\049.cormorant\049_0088.jpg
+H:\256_ObjectCategories\109.hot-tub\109_0121.jpg
+H:\256_ObjectCategories\120.joy-stick\120_0063.jpg
+H:\256_ObjectCategories\120.joy-stick\120_0093.jpg

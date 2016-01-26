@@ -1,0 +1,5 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0080.jpg
+H:\256_ObjectCategories\019.boxing-glove\019_0067.jpg
+H:\256_ObjectCategories\024.butterfly\024_0099.jpg
+H:\256_ObjectCategories\035.cereal-box\035_0029.jpg
+H:\256_ObjectCategories\082.galaxy\082_0002.jpg

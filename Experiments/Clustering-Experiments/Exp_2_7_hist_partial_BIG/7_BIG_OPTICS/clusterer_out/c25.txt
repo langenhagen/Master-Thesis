@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\003.backpack\003_0050.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0056.jpg
+H:\256_ObjectCategories\022.buddha-101\022_0051.jpg
+H:\256_ObjectCategories\029.cannon\029_0038.jpg
+H:\256_ObjectCategories\034.centipede\034_0088.jpg
+H:\256_ObjectCategories\054.diamond-ring\054_0093.jpg
+H:\256_ObjectCategories\058.doorknob\058_0014.jpg
+H:\256_ObjectCategories\067.eyeglasses\067_0039.jpg
+H:\256_ObjectCategories\075.floppy-disk\075_0040.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0050.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0064.jpg
+H:\256_ObjectCategories\080.frog\080_0064.jpg
+H:\256_ObjectCategories\084.giraffe\084_0004.jpg
+H:\256_ObjectCategories\084.giraffe\084_0030.jpg
+H:\256_ObjectCategories\096.hammock\096_0011.jpg

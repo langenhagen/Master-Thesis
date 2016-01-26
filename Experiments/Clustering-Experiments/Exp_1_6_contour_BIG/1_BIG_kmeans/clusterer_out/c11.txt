@@ -1,0 +1,8 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0080.jpg
+H:\256_ObjectCategories\033.cd\033_0100.jpg
+H:\256_ObjectCategories\036.chandelier-101\036_0104.jpg
+H:\256_ObjectCategories\037.chess-board\037_0120.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0076.jpg
+H:\256_ObjectCategories\211.tambourine\211_0092.jpg
+H:\256_ObjectCategories\216.tennis-ball\216_0050.jpg
+H:\256_ObjectCategories\240.watch-101\240_0129.jpg

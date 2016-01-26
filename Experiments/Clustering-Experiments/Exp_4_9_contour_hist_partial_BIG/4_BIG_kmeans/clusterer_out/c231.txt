@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\043.coin\043_0092.jpg
+H:\256_ObjectCategories\056.dog\056_0056.jpg
+H:\256_ObjectCategories\080.frog\080_0112.jpg
+H:\256_ObjectCategories\103.hibiscus\103_0001.jpg
+H:\256_ObjectCategories\160.pez-dispenser\160_0050.jpg
+H:\256_ObjectCategories\174.rotary-phone\174_0007.jpg

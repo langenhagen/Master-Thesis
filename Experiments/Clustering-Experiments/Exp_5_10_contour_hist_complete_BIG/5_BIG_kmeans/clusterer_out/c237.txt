@@ -1,0 +1,10 @@
+H:\256_ObjectCategories\031.car-tire\031_0089.jpg
+H:\256_ObjectCategories\051.cowboy-hat\051_0016.jpg
+H:\256_ObjectCategories\079.frisbee\079_0093.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0017.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0027.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0010.jpg
+H:\256_ObjectCategories\216.tennis-ball\216_0048.jpg
+H:\256_ObjectCategories\226.traffic-light\226_0074.jpg
+H:\256_ObjectCategories\234.tweezer\234_0058.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0086.jpg

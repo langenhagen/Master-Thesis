@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\010.beer-mug\010_0030.jpg
+H:\256_ObjectCategories\111.house-fly\111_0002.jpg
+H:\256_ObjectCategories\120.joy-stick\120_0090.jpg
+H:\256_ObjectCategories\154.palm-tree\154_0094.jpg
+H:\256_ObjectCategories\213.teddy-bear\213_0076.jpg
+H:\256_ObjectCategories\224.touring-bike\224_0053.jpg
+H:\256_ObjectCategories\225.tower-pisa\225_0064.jpg
+H:\256_ObjectCategories\238.video-projector\238_0001.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0003.jpg

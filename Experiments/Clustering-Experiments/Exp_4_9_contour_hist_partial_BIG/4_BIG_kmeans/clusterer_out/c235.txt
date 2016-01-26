@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\066.ewer-101\066_0045.jpg
+H:\256_ObjectCategories\068.fern\068_0080.jpg
+H:\256_ObjectCategories\130.license-plate\130_0021.jpg
+H:\256_ObjectCategories\139.megaphone\139_0004.jpg
+H:\256_ObjectCategories\194.socks\194_0087.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0236.jpg

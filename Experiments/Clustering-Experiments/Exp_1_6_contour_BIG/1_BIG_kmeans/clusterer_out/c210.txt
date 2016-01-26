@@ -1,0 +1,3 @@
+H:\256_ObjectCategories\019.boxing-glove\019_0065.jpg
+H:\256_ObjectCategories\037.chess-board\037_0018.jpg
+H:\256_ObjectCategories\049.cormorant\049_0018.jpg

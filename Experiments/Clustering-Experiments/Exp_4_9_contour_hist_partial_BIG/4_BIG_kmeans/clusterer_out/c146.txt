@@ -1,0 +1,10 @@
+H:\256_ObjectCategories\004.baseball-bat\004_0080.jpg
+H:\256_ObjectCategories\018.bowling-pin\018_0050.jpg
+H:\256_ObjectCategories\054.diamond-ring\054_0055.jpg
+H:\256_ObjectCategories\067.eyeglasses\067_0071.jpg
+H:\256_ObjectCategories\068.fern\068_0077.jpg
+H:\256_ObjectCategories\077.french-horn\077_0061.jpg
+H:\256_ObjectCategories\110.hourglass\110_0062.jpg
+H:\256_ObjectCategories\197.speed-boat\197_0031.jpg
+H:\256_ObjectCategories\237.vcr\237_0081.jpg
+H:\256_ObjectCategories\246.wine-bottle\246_0029.jpg

@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0026.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0032.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0041.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0066.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0075.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0024.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0030.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0037.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0068.jpg

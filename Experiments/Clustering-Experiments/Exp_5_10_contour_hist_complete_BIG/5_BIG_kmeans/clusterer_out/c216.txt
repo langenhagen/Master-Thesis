@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\038.chimp\038_0102.jpg
+H:\256_ObjectCategories\073.fireworks\073_0100.jpg
+H:\256_ObjectCategories\112.human-skeleton\112_0046.jpg
+H:\256_ObjectCategories\140.menorah-101\140_0007.jpg
+H:\256_ObjectCategories\140.menorah-101\140_0057.jpg
+H:\256_ObjectCategories\144.minotaur\144_0024.jpg
+H:\256_ObjectCategories\154.palm-tree\154_0054.jpg
+H:\256_ObjectCategories\180.screwdriver\180_0060.jpg
+H:\256_ObjectCategories\211.tambourine\211_0069.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0470.jpg
+H:\256_ObjectCategories\251.airplanes-101\251_0531.jpg
+H:\256_ObjectCategories\253.faces-easy-101\253_0298.jpg

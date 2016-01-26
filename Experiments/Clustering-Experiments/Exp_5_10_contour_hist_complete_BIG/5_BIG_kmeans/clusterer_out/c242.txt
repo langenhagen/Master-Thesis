@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\008.bathtub\008_0228.jpg
+H:\256_ObjectCategories\022.buddha-101\022_0029.jpg
+H:\256_ObjectCategories\031.car-tire\031_0061.jpg
+H:\256_ObjectCategories\156.paper-shredder\156_0008.jpg
+H:\256_ObjectCategories\164.porcupine\164_0011.jpg
+H:\256_ObjectCategories\194.socks\194_0005.jpg
+H:\256_ObjectCategories\195.soda-can\195_0017.jpg
+H:\256_ObjectCategories\206.sushi\206_0012.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0017.jpg

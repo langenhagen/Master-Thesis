@@ -1,0 +1,10 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0090.jpg
+H:\256_ObjectCategories\012.binoculars\012_0090.jpg
+H:\256_ObjectCategories\012.binoculars\012_0120.jpg
+H:\256_ObjectCategories\015.bonsai-101\015_0110.jpg
+H:\256_ObjectCategories\061.dumb-bell\061_0058.jpg
+H:\256_ObjectCategories\181.segway\181_0034.jpg
+H:\256_ObjectCategories\235.umbrella-101\235_0015.jpg
+H:\256_ObjectCategories\235.umbrella-101\235_0035.jpg
+H:\256_ObjectCategories\236.unicorn\236_0015.jpg
+H:\256_ObjectCategories\241.waterfall\241_0072.jpg

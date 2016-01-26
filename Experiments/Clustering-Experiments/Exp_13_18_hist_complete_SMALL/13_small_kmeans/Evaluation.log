@@ -1,0 +1,22 @@
+[15-07-08, 23:59:55][info]: *** program parameters ***
+[15-07-08, 23:59:55][info]: Config file: ..\Evaluation.cfg
+[15-07-08, 23:59:55][info]: Log file: ..\Evaluation.log
+[15-07-08, 23:59:55][info]: Mode: 1 aka precision_recall
+[15-07-08, 23:59:55][info]: Cluster file paths file: ..\c_class_files.txt
+[15-07-08, 23:59:55][info]: Membership probabilities file: ..\c_membership_probabilities.txt
+[15-07-08, 23:59:55][info]: Membership mappings file: ..\c_membership_mappings.txt
+[15-07-08, 23:59:55][info]: Image DB directory: H:\256_ObjectCategories
+[15-07-08, 23:59:55][info]: Posteriors file: ..\eval_posteriors.txt
+[15-07-08, 23:59:55][info]: Precision/recall file: ..\eval_precision_recall_file.txt
+[15-07-08, 23:59:55][info]: *** Program start ***
+[15-07-08, 23:59:55][info]: Mode: Precision / Recall
+[15-07-08, 23:59:55][info]: Loading class membership mappings...
+[15-07-08, 23:59:55][info]: # features: 2448
+[15-07-08, 23:59:55][info]: # clusters: 1
+[15-07-08, 23:59:55][info]: calculating precision / recall ...
+[15-07-08, 23:59:55][info]: <class name> <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-08, 23:59:55][info]: 145.motorbikes-101 784 1664 14 0.320261 0.982456
+[15-07-08, 23:59:55][info]: Average: <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-08, 23:59:55][info]: 784 1664 14 0.320261 0.982456
+[15-07-08, 23:59:55][info]: Writing stats to file "..\eval_precision_recall_file.txt"...
+[15-07-08, 23:59:55][info]: *** Program end ***

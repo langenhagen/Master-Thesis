@@ -1,0 +1,13 @@
+H:\256_ObjectCategories\040.cockroach\040_0057.jpg
+H:\256_ObjectCategories\043.coin\043_0025.jpg
+H:\256_ObjectCategories\044.comet\044_0067.jpg
+H:\256_ObjectCategories\058.doorknob\058_0070.jpg
+H:\256_ObjectCategories\098.harp\098_0078.jpg
+H:\256_ObjectCategories\133.lightning\133_0047.jpg
+H:\256_ObjectCategories\133.lightning\133_0096.jpg
+H:\256_ObjectCategories\144.minotaur\144_0008.jpg
+H:\256_ObjectCategories\152.owl\152_0109.jpg
+H:\256_ObjectCategories\158.penguin\158_0002.jpg
+H:\256_ObjectCategories\183.sextant\183_0049.jpg
+H:\256_ObjectCategories\207.swan\207_0103.jpg
+H:\256_ObjectCategories\228.triceratops\228_0021.jpg

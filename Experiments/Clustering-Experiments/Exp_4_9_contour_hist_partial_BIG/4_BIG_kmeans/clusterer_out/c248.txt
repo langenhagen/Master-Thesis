@@ -1,0 +1,14 @@
+H:\256_ObjectCategories\031.car-tire\031_0089.jpg
+H:\256_ObjectCategories\043.coin\043_0080.jpg
+H:\256_ObjectCategories\047.computer-mouse\047_0076.jpg
+H:\256_ObjectCategories\076.football-helmet\076_0008.jpg
+H:\256_ObjectCategories\103.hibiscus\103_0048.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0027.jpg
+H:\256_ObjectCategories\196.spaghetti\196_0015.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0056.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0010.jpg
+H:\256_ObjectCategories\226.traffic-light\226_0074.jpg
+H:\256_ObjectCategories\234.tweezer\234_0058.jpg
+H:\256_ObjectCategories\240.watch-101\240_0042.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0076.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0086.jpg

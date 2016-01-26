@@ -1,0 +1,8 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0099.jpg
+H:\256_ObjectCategories\038.chimp\038_0055.jpg
+H:\256_ObjectCategories\040.cockroach\040_0060.jpg
+H:\256_ObjectCategories\078.fried-egg\078_0040.jpg
+H:\256_ObjectCategories\103.hibiscus\103_0075.jpg
+H:\256_ObjectCategories\175.roulette-wheel\175_0045.jpg
+H:\256_ObjectCategories\200.stained-glass\200_0060.jpg
+H:\256_ObjectCategories\240.watch-101\240_0108.jpg

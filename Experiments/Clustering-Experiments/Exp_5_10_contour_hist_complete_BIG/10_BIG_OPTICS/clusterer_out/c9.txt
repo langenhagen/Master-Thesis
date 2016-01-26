@@ -1,0 +1,16 @@
+H:\256_ObjectCategories\004.baseball-bat\004_0104.jpg
+H:\256_ObjectCategories\039.chopsticks\039_0076.jpg
+H:\256_ObjectCategories\059.drinking-straw\059_0014.jpg
+H:\256_ObjectCategories\067.eyeglasses\067_0044.jpg
+H:\256_ObjectCategories\067.eyeglasses\067_0061.jpg
+H:\256_ObjectCategories\074.flashlight\074_0092.jpg
+H:\256_ObjectCategories\074.flashlight\074_0093.jpg
+H:\256_ObjectCategories\081.frying-pan\081_0001.jpg
+H:\256_ObjectCategories\081.frying-pan\081_0075.jpg
+H:\256_ObjectCategories\081.frying-pan\081_0076.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0038.jpg
+H:\256_ObjectCategories\097.harmonica\097_0043.jpg
+H:\256_ObjectCategories\122.kayak\122_0014.jpg
+H:\256_ObjectCategories\146.mountain-bike\146_0050.jpg
+H:\256_ObjectCategories\171.refrigerator\171_0072.jpg
+H:\256_ObjectCategories\173.rifle\173_0056.jpg

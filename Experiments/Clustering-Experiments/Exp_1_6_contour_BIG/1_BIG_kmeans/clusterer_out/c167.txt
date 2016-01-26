@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\008.bathtub\008_0203.jpg
+H:\256_ObjectCategories\062.eiffel-tower\062_0061.jpg
+H:\256_ObjectCategories\088.golf-ball\088_0030.jpg
+H:\256_ObjectCategories\112.human-skeleton\112_0023.jpg
+H:\256_ObjectCategories\112.human-skeleton\112_0039.jpg
+H:\256_ObjectCategories\113.hummingbird\113_0053.jpg
+H:\256_ObjectCategories\117.ipod\117_0053.jpg
+H:\256_ObjectCategories\125.knife\125_0095.jpg
+H:\256_ObjectCategories\154.palm-tree\154_0094.jpg
+H:\256_ObjectCategories\191.sneaker\191_0009.jpg
+H:\256_ObjectCategories\195.soda-can\195_0064.jpg
+H:\256_ObjectCategories\227.treadmill\227_0103.jpg
+H:\256_ObjectCategories\231.tripod\231_0025.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0338.jpg
+H:\256_ObjectCategories\233.tuning-fork\233_0035.jpg

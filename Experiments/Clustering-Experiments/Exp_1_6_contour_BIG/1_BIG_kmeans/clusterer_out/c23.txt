@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0028.jpg
+H:\256_ObjectCategories\026.cake\026_0065.jpg
+H:\256_ObjectCategories\043.coin\043_0108.jpg
+H:\256_ObjectCategories\043.coin\043_0111.jpg
+H:\256_ObjectCategories\043.coin\043_0121.jpg
+H:\256_ObjectCategories\044.comet\044_0012.jpg
+H:\256_ObjectCategories\044.comet\044_0024.jpg
+H:\256_ObjectCategories\044.comet\044_0026.jpg
+H:\256_ObjectCategories\044.comet\044_0041.jpg
+H:\256_ObjectCategories\044.comet\044_0048.jpg
+H:\256_ObjectCategories\044.comet\044_0061.jpg
+H:\256_ObjectCategories\044.comet\044_0067.jpg

@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\002.american-flag\002_0019.jpg
+H:\256_ObjectCategories\033.cd\033_0012.jpg
+H:\256_ObjectCategories\035.cereal-box\035_0037.jpg
+H:\256_ObjectCategories\108.hot-dog\108_0050.jpg
+H:\256_ObjectCategories\121.kangaroo-101\121_0028.jpg
+H:\256_ObjectCategories\245.windmill\245_0005.jpg

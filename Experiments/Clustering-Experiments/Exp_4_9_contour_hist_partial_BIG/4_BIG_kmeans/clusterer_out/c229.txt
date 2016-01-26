@@ -1,0 +1,4 @@
+H:\256_ObjectCategories\146.mountain-bike\146_0033.jpg
+H:\256_ObjectCategories\159.people\159_0021.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0170.jpg
+H:\256_ObjectCategories\213.teddy-bear\213_0001.jpg

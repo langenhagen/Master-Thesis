@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="saliency">
+      <UniqueIdentifier>{a5e2a088-7eba-42a7-b65a-fd2233f12a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="extractor">
+      <UniqueIdentifier>{5cbee09a-af08-493f-a534-f057d471170b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="saliency\saliencyfilters">
+      <UniqueIdentifier>{8a5c6a2f-2386-4e89-9a6f-f93bc550466c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\saliency\SaliencyDetector.hpp">
+      <Filter>saliency</Filter>
+    </ClInclude>
+    <ClInclude Include="src\saliency\SaliencyFilters.hpp">
+      <Filter>saliency</Filter>
+    </ClInclude>
+    <ClInclude Include="src\global_stats.hpp" />
+    <ClInclude Include="src\ImageProcessor.hpp" />
+    <ClInclude Include="src\program_options.hpp" />
+    <ClInclude Include="src\extractor_type.hpp" />
+    <ClInclude Include="src\extractor\ContourExtractor.hpp">
+      <Filter>extractor</Filter>
+    </ClInclude>
+    <ClInclude Include="src\extractor\ContourHistogramExtractor.hpp">
+      <Filter>extractor</Filter>
+    </ClInclude>
+    <ClInclude Include="src\extractor\FeatureExtractor.hpp">
+      <Filter>extractor</Filter>
+    </ClInclude>
+    <ClInclude Include="src\extractor\HistogramExtractor.hpp">
+      <Filter>extractor</Filter>
+    </ClInclude>
+    <ClInclude Include="src\saliency\saliencyfilters\superpixel.h">
+      <Filter>saliency\saliencyfilters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\saliency\saliencyfilters\saliency.h">
+      <Filter>saliency\saliencyfilters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\saliency\saliencyfilters\permutohedral.h">
+      <Filter>saliency\saliencyfilters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\saliency\saliencyfilters\filter.h">
+      <Filter>saliency\saliencyfilters</Filter>
+    </ClInclude>
+    <ClInclude Include="src\detector_type.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\feature_generator_main.cpp" />
+  </ItemGroup>
+</Project>

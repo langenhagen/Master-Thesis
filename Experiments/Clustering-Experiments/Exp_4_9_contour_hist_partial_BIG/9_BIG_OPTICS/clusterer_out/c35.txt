@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\002.american-flag\002_0044.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0036.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0052.jpg
+H:\256_ObjectCategories\008.bathtub\008_0159.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0064.jpg
+H:\256_ObjectCategories\087.goldfish\087_0010.jpg
+H:\256_ObjectCategories\087.goldfish\087_0076.jpg
+H:\256_ObjectCategories\098.harp\098_0004.jpg
+H:\256_ObjectCategories\098.harp\098_0020.jpg
+H:\256_ObjectCategories\102.helicopter-101\102_0072.jpg
+H:\256_ObjectCategories\113.hummingbird\113_0107.jpg
+H:\256_ObjectCategories\122.kayak\122_0070.jpg

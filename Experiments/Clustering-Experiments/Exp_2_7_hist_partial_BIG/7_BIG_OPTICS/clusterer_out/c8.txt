@@ -1,0 +1,16 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0082.jpg
+H:\256_ObjectCategories\007.bat\007_0081.jpg
+H:\256_ObjectCategories\008.bathtub\008_0039.jpg
+H:\256_ObjectCategories\009.bear\009_0075.jpg
+H:\256_ObjectCategories\022.buddha-101\022_0064.jpg
+H:\256_ObjectCategories\029.cannon\029_0010.jpg
+H:\256_ObjectCategories\034.centipede\034_0006.jpg
+H:\256_ObjectCategories\034.centipede\034_0019.jpg
+H:\256_ObjectCategories\049.cormorant\049_0005.jpg
+H:\256_ObjectCategories\049.cormorant\049_0021.jpg
+H:\256_ObjectCategories\053.desk-globe\053_0027.jpg
+H:\256_ObjectCategories\053.desk-globe\053_0048.jpg
+H:\256_ObjectCategories\055.dice\055_0040.jpg
+H:\256_ObjectCategories\058.doorknob\058_0029.jpg
+H:\256_ObjectCategories\064.elephant-101\064_0055.jpg
+H:\256_ObjectCategories\080.frog\080_0054.jpg

@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\012.binoculars\012_0118.jpg
+H:\256_ObjectCategories\032.cartman\032_0092.jpg
+H:\256_ObjectCategories\033.cd\033_0044.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0073.jpg
+H:\256_ObjectCategories\085.goat\085_0055.jpg
+H:\256_ObjectCategories\127.laptop-101\127_0040.jpg
+H:\256_ObjectCategories\159.people\159_0148.jpg
+H:\256_ObjectCategories\176.saddle\176_0069.jpg
+H:\256_ObjectCategories\190.snake\190_0084.jpg
+H:\256_ObjectCategories\221.tomato\221_0020.jpg
+H:\256_ObjectCategories\224.touring-bike\224_0041.jpg
+H:\256_ObjectCategories\238.video-projector\238_0042.jpg
+H:\256_ObjectCategories\243.welding-mask\243_0008.jpg
+H:\256_ObjectCategories\253.faces-easy-101\253_0155.jpg
+H:\256_ObjectCategories\253.faces-easy-101\253_0350.jpg

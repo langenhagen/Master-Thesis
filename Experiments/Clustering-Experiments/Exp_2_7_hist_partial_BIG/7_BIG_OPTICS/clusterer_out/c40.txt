@@ -1,0 +1,10 @@
+H:\256_ObjectCategories\019.boxing-glove\019_0115.jpg
+H:\256_ObjectCategories\023.bulldozer\023_0022.jpg
+H:\256_ObjectCategories\023.bulldozer\023_0031.jpg
+H:\256_ObjectCategories\025.cactus\025_0014.jpg
+H:\256_ObjectCategories\035.cereal-box\035_0080.jpg
+H:\256_ObjectCategories\043.coin\043_0082.jpg
+H:\256_ObjectCategories\048.conch\048_0092.jpg
+H:\256_ObjectCategories\066.ewer-101\066_0067.jpg
+H:\256_ObjectCategories\083.gas-pump\083_0032.jpg
+H:\256_ObjectCategories\083.gas-pump\083_0035.jpg

@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\008.bathtub\008_0175.jpg
+H:\256_ObjectCategories\028.camel\028_0078.jpg
+H:\256_ObjectCategories\031.car-tire\031_0001.jpg
+H:\256_ObjectCategories\035.cereal-box\035_0049.jpg
+H:\256_ObjectCategories\061.dumb-bell\061_0080.jpg
+H:\256_ObjectCategories\063.electric-guitar-101\063_0027.jpg
+H:\256_ObjectCategories\148.mussels\148_0105.jpg
+H:\256_ObjectCategories\151.ostrich\151_0108.jpg
+H:\256_ObjectCategories\160.pez-dispenser\160_0023.jpg
+H:\256_ObjectCategories\166.praying-mantis\166_0002.jpg
+H:\256_ObjectCategories\169.radio-telescope\169_0015.jpg
+H:\256_ObjectCategories\169.radio-telescope\169_0081.jpg
+H:\256_ObjectCategories\170.rainbow\170_0007.jpg
+H:\256_ObjectCategories\221.tomato\221_0045.jpg
+H:\256_ObjectCategories\234.tweezer\234_0025.jpg

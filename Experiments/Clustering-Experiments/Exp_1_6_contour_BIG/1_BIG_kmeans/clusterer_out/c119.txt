@@ -1,0 +1,16 @@
+H:\256_ObjectCategories\012.binoculars\012_0173.jpg
+H:\256_ObjectCategories\032.cartman\032_0033.jpg
+H:\256_ObjectCategories\071.fire-hydrant\071_0051.jpg
+H:\256_ObjectCategories\090.gorilla\090_0037.jpg
+H:\256_ObjectCategories\098.harp\098_0082.jpg
+H:\256_ObjectCategories\128.lathe\128_0054.jpg
+H:\256_ObjectCategories\150.octopus\150_0011.jpg
+H:\256_ObjectCategories\150.octopus\150_0075.jpg
+H:\256_ObjectCategories\154.palm-tree\154_0075.jpg
+H:\256_ObjectCategories\165.pram\165_0020.jpg
+H:\256_ObjectCategories\169.radio-telescope\169_0016.jpg
+H:\256_ObjectCategories\189.snail\189_0056.jpg
+H:\256_ObjectCategories\193.soccer-ball\193_0081.jpg
+H:\256_ObjectCategories\194.socks\194_0106.jpg
+H:\256_ObjectCategories\201.starfish-101\201_0004.jpg
+H:\256_ObjectCategories\228.triceratops\228_0030.jpg

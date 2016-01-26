@@ -1,0 +1,6 @@
+H:\256_ObjectCategories\101.head-phones\101_0031.jpg
+H:\256_ObjectCategories\131.lightbulb\131_0025.jpg
+H:\256_ObjectCategories\132.light-house\132_0152.jpg
+H:\256_ObjectCategories\164.porcupine\164_0012.jpg
+H:\256_ObjectCategories\176.saddle\176_0005.jpg
+H:\256_ObjectCategories\243.welding-mask\243_0018.jpg

@@ -1,0 +1,6 @@
+G:\Cpp\Masterarbeit\Clusterer\..\clusterer_out\c0.txt
+G:\Cpp\Masterarbeit\Clusterer\..\clusterer_out\c1.txt
+G:\Cpp\Masterarbeit\Clusterer\..\clusterer_out\c2.txt
+G:\Cpp\Masterarbeit\Clusterer\..\clusterer_out\c3.txt
+G:\Cpp\Masterarbeit\Clusterer\..\clusterer_out\c4.txt
+G:\Cpp\Masterarbeit\Clusterer\..\clusterer_out\c5.txt

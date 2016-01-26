@@ -1,0 +1,7 @@
+H:\256_ObjectCategories\005.baseball-glove\005_0056.jpg
+H:\256_ObjectCategories\006.basketball-hoop\006_0077.jpg
+H:\256_ObjectCategories\009.bear\009_0030.jpg
+H:\256_ObjectCategories\011.billiards\011_0158.jpg
+H:\256_ObjectCategories\011.billiards\011_0186.jpg
+H:\256_ObjectCategories\011.billiards\011_0254.jpg
+H:\256_ObjectCategories\015.bonsai-101\015_0046.jpg

@@ -1,0 +1,17 @@
+H:\256_ObjectCategories\004.baseball-bat\004_0025.jpg
+H:\256_ObjectCategories\007.bat\007_0020.jpg
+H:\256_ObjectCategories\008.bathtub\008_0153.jpg
+H:\256_ObjectCategories\017.bowling-ball\017_0084.jpg
+H:\256_ObjectCategories\029.cannon\029_0063.jpg
+H:\256_ObjectCategories\037.chess-board\037_0068.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0006.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0021.jpg
+H:\256_ObjectCategories\113.hummingbird\113_0080.jpg
+H:\256_ObjectCategories\141.microscope\141_0071.jpg
+H:\256_ObjectCategories\145.motorbikes-101\145_0234.jpg
+H:\256_ObjectCategories\153.palm-pilot\153_0002.jpg
+H:\256_ObjectCategories\157.pci-card\157_0077.jpg
+H:\256_ObjectCategories\183.sextant\183_0003.jpg
+H:\256_ObjectCategories\189.snail\189_0025.jpg
+H:\256_ObjectCategories\200.stained-glass\200_0093.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0274.jpg

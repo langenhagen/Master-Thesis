@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0082.jpg
+H:\256_ObjectCategories\010.beer-mug\010_0030.jpg
+H:\256_ObjectCategories\018.bowling-pin\018_0088.jpg
+H:\256_ObjectCategories\061.dumb-bell\061_0058.jpg
+H:\256_ObjectCategories\189.snail\189_0056.jpg
+H:\256_ObjectCategories\195.soda-can\195_0047.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0127.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0179.jpg
+H:\256_ObjectCategories\236.unicorn\236_0015.jpg
+H:\256_ObjectCategories\252.car-side-101\252_0028.jpg
+H:\256_ObjectCategories\254.greyhound\254_0061.jpg

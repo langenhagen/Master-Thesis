@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\001.ak47\001_0016.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0086.jpg
+H:\256_ObjectCategories\027.calculator\027_0091.jpg
+H:\256_ObjectCategories\061.dumb-bell\061_0098.jpg
+H:\256_ObjectCategories\063.electric-guitar-101\063_0031.jpg
+H:\256_ObjectCategories\074.flashlight\074_0066.jpg
+H:\256_ObjectCategories\074.flashlight\074_0093.jpg
+H:\256_ObjectCategories\081.frying-pan\081_0045.jpg
+H:\256_ObjectCategories\110.hourglass\110_0030.jpg
+H:\256_ObjectCategories\125.knife\125_0084.jpg
+H:\256_ObjectCategories\135.mailbox\135_0064.jpg

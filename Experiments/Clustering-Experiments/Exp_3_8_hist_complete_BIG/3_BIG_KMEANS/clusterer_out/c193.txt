@@ -1,0 +1,12 @@
+H:\256_ObjectCategories\003.backpack\003_0133.jpg
+H:\256_ObjectCategories\033.cd\033_0095.jpg
+H:\256_ObjectCategories\079.frisbee\079_0060.jpg
+H:\256_ObjectCategories\079.frisbee\079_0089.jpg
+H:\256_ObjectCategories\149.necktie\149_0077.jpg
+H:\256_ObjectCategories\175.roulette-wheel\175_0023.jpg
+H:\256_ObjectCategories\195.soda-can\195_0033.jpg
+H:\256_ObjectCategories\212.teapot\212_0039.jpg
+H:\256_ObjectCategories\213.teddy-bear\213_0077.jpg
+H:\256_ObjectCategories\226.traffic-light\226_0078.jpg
+H:\256_ObjectCategories\227.treadmill\227_0083.jpg
+H:\256_ObjectCategories\232.t-shirt\232_0004.jpg

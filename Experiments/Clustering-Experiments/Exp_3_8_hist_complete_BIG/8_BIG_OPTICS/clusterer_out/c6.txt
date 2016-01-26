@@ -1,0 +1,9 @@
+H:\256_ObjectCategories\003.backpack\003_0026.jpg
+H:\256_ObjectCategories\003.backpack\003_0083.jpg
+H:\256_ObjectCategories\003.backpack\003_0126.jpg
+H:\256_ObjectCategories\005.baseball-glove\005_0065.jpg
+H:\256_ObjectCategories\008.bathtub\008_0200.jpg
+H:\256_ObjectCategories\012.binoculars\012_0014.jpg
+H:\256_ObjectCategories\012.binoculars\012_0016.jpg
+H:\256_ObjectCategories\012.binoculars\012_0169.jpg
+H:\256_ObjectCategories\072.fire-truck\072_0057.jpg

@@ -1,0 +1,11 @@
+H:\256_ObjectCategories\006.basketball-hoop\006_0063.jpg
+H:\256_ObjectCategories\022.buddha-101\022_0047.jpg
+H:\256_ObjectCategories\031.car-tire\031_0013.jpg
+H:\256_ObjectCategories\040.cockroach\040_0049.jpg
+H:\256_ObjectCategories\040.cockroach\040_0050.jpg
+H:\256_ObjectCategories\040.cockroach\040_0119.jpg
+H:\256_ObjectCategories\041.coffee-mug\041_0039.jpg
+H:\256_ObjectCategories\041.coffee-mug\041_0086.jpg
+H:\256_ObjectCategories\044.comet\044_0112.jpg
+H:\256_ObjectCategories\046.computer-monitor\046_0087.jpg
+H:\256_ObjectCategories\047.computer-mouse\047_0061.jpg

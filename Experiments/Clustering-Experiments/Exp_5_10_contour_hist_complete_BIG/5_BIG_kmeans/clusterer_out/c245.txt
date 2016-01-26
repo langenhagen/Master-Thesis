@@ -1,0 +1,16 @@
+H:\256_ObjectCategories\043.coin\043_0080.jpg
+H:\256_ObjectCategories\047.computer-mouse\047_0076.jpg
+H:\256_ObjectCategories\076.football-helmet\076_0008.jpg
+H:\256_ObjectCategories\101.head-phones\101_0075.jpg
+H:\256_ObjectCategories\160.pez-dispenser\160_0050.jpg
+H:\256_ObjectCategories\196.spaghetti\196_0015.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0036.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0042.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0056.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0070.jpg
+H:\256_ObjectCategories\202.steering-wheel\202_0084.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0074.jpg
+H:\256_ObjectCategories\238.video-projector\238_0027.jpg
+H:\256_ObjectCategories\240.watch-101\240_0042.jpg
+H:\256_ObjectCategories\248.yarmulke\248_0040.jpg
+H:\256_ObjectCategories\249.yo-yo\249_0076.jpg

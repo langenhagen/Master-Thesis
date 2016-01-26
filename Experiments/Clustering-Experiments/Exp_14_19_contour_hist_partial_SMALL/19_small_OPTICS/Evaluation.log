@@ -1,0 +1,40 @@
+[15-07-09, 16:43:24][info]: *** program parameters ***
+[15-07-09, 16:43:24][info]: Config file: ..\Evaluation.cfg
+[15-07-09, 16:43:24][info]: Log file: ..\Evaluation.log
+[15-07-09, 16:43:24][info]: Mode: 1 aka precision_recall
+[15-07-09, 16:43:24][info]: Cluster file paths file: ..\c_class_files.txt
+[15-07-09, 16:43:24][info]: Membership probabilities file: ..\c_membership_probabilities.txt
+[15-07-09, 16:43:24][info]: Membership mappings file: ..\c_membership_mappings.txt
+[15-07-09, 16:43:24][info]: Image DB directory: H:\256_ObjectCategories
+[15-07-09, 16:43:24][info]: Posteriors file: ..\eval_posteriors.txt
+[15-07-09, 16:43:24][info]: Precision/recall file: ..\eval_precision_recall_file.txt
+[15-07-09, 16:43:24][info]: *** Program start ***
+[15-07-09, 16:43:24][info]: Mode: Precision / Recall
+[15-07-09, 16:43:24][info]: Loading class membership mappings...
+[15-07-09, 16:43:24][info]: # features: 2409
+[15-07-09, 16:43:24][info]: # clusters: 20
+[15-07-09, 16:43:24][info]: calculating precision / recall ...
+[15-07-09, 16:43:25][info]: <class name> <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-09, 16:43:25][info]: 118.iris 2 1 106 0.666667 0.0185185
+[15-07-09, 16:43:25][info]: 118.iris 2 0 106 1 0.0185185
+[15-07-09, 16:43:25][info]: 118.iris 1 2 107 0.333333 0.00925926
+[15-07-09, 16:43:25][info]: 123.ketch-101 8 11 103 0.421053 0.0720721
+[15-07-09, 16:43:25][info]: 114.ibis-101 22 22 98 0.5 0.183333
+[15-07-09, 16:43:25][info]: 123.ketch-101 2 1 109 0.666667 0.018018
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 2 0 796 1 0.00250627
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 6 0 792 1 0.0075188
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 3 0 795 1 0.0037594
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 4 0 794 1 0.00501253
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 2 0 796 1 0.00250627
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 2 0 796 1 0.00250627
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 346 108 452 0.762115 0.433584
+[15-07-09, 16:43:25][info]: 253.faces-easy-101 4 2 431 0.666667 0.0091954
+[15-07-09, 16:43:25][info]: 253.faces-easy-101 5 0 430 1 0.0114943
+[15-07-09, 16:43:25][info]: 253.faces-easy-101 29 0 406 1 0.0666667
+[15-07-09, 16:43:25][info]: 253.faces-easy-101 7 0 428 1 0.016092
+[15-07-09, 16:43:25][info]: 253.faces-easy-101 154 348 281 0.306773 0.354023
+[15-07-09, 16:43:25][info]: 145.motorbikes-101 243 1070 555 0.185072 0.304511
+[15-07-09, 16:43:25][info]: Average: <true positives> <false positives> <false negatives> <precision> <recall>
+[15-07-09, 16:43:25][info]: 44.4211 82.3684 441.105 0.763597 0.081005
+[15-07-09, 16:43:25][info]: Writing stats to file "..\eval_precision_recall_file.txt"...
+[15-07-09, 16:43:25][info]: *** Program end ***

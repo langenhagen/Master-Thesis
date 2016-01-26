@@ -1,0 +1,15 @@
+H:\256_ObjectCategories\008.bathtub\008_0106.jpg
+H:\256_ObjectCategories\033.cd\033_0088.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0012.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0035.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0038.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0068.jpg
+H:\256_ObjectCategories\094.guitar-pick\094_0078.jpg
+H:\256_ObjectCategories\174.rotary-phone\174_0007.jpg
+H:\256_ObjectCategories\204.sunflower-101\204_0038.jpg
+H:\256_ObjectCategories\212.teapot\212_0090.jpg
+H:\256_ObjectCategories\220.toaster\220_0052.jpg
+H:\256_ObjectCategories\221.tomato\221_0019.jpg
+H:\256_ObjectCategories\221.tomato\221_0076.jpg
+H:\256_ObjectCategories\222.tombstone\222_0053.jpg
+H:\256_ObjectCategories\238.video-projector\238_0091.jpg
