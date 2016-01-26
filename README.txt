@@ -32,6 +32,8 @@ The Solution holds 5 Projects:
     Evaluation          :       assesses the clustering result quality
     OPTICSAnalyzer      :       tool for manual assessment of the OPTICS clustering
     
+    - The thesis document can be found in the root directory under following name:
+        "Andreas Langenhagen - Master Thesis - Unsupervised Detection of Salient Regions in Image Databases.pdf"
     
     - The doxygen documentation can be found in the folder "doc"
     
