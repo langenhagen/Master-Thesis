@@ -1,7 +1,7 @@
 *******************************************************************
-README 
-for the practical solution of the master thesis 
-"Unsupervised Detection of Salient Regions in Image Databases" 
+README
+for the practical solution of the master thesis
+"Unsupervised Detection of Salient Regions in Image Databases"
 by Andreas Langenhagen
 
 author: langenhagen (barn07@web.de)
@@ -23,7 +23,7 @@ CONTENTS:
 
 0. SOLUTION OVERVIEW ##############################################################################
 ###################################################################################################
-  
+
 The Solution holds 5 Projects:
 
     Common              :       maintains global types, functions, modules etc., no executable
@@ -31,15 +31,15 @@ The Solution holds 5 Projects:
     Clusterer           :       clusters the images according to the descriptors
     Evaluation          :       assesses the clustering result quality
     OPTICSAnalyzer      :       tool for manual assessment of the OPTICS clustering
-    
+
     - The thesis document can be found in the root directory under following name:
         "Andreas Langenhagen - Master Thesis - Unsupervised Detection of Salient Regions in Image Databases.pdf"
-    
+
     - The doxygen documentation can be found in the folder "doc"
-    
+
     - The Caltech-256 image database can be downloaded from this source:
         http://www.vision.caltech.edu/Image_Datasets/Caltech256/
-    
+
 
 1. INSTALLATION ###################################################################################
 ###################################################################################################
@@ -50,18 +50,18 @@ The projects in the solution need following external libraries:
         - chrono
         - filesystem
         - log
-        - program_options        
+        - program_options
     - OpenCV (tested with version 2.49)
-    
-    
+
+
 In order to link the external libraries to the project, you should specify the following environment variables:
-    
+
     VARIABLE                    POSSIBLE VALUE
-    
+
     - BOOST_HOME        :       C:\boost_1_56_0\
     - OPENCV_BUILD      :       C:\opencv-2.49\build\
 
-    
+
 Eventually you have to copy some missing dlls into the executables directories.
 
 
@@ -69,7 +69,7 @@ Eventually you have to copy some missing dlls into the executables directories.
 2. USAGE ##########################################################################################
 ###################################################################################################
 
-The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and in 
+The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and in
                                     <SOLUTION_ROOT>\OPTICSAnalyzer\bin\      , respectively.
 
 2.1 FeatureGenerator ##############################################################################
@@ -92,7 +92,7 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     min_salient_region_size         the minimum number of pixels a salient region must contain                                  N+
     blur_kernel_size                size of Gaussian blur kernel that is applied prior to threshold masking the saliency map    {n | n el. N+ , n mod 2 = 1}
     use_grabcut                     whether or not to use GrabCut for saliency mask creation                                    {0,1}
-    grabcut_foreground_probability  GrabCut foreground probability                                                              [0..1]    
+    grabcut_foreground_probability  GrabCut foreground probability                                                              [0..1]
     threshold                       threshold value if simple masking is preferred over GrabCut                                 [0..1]
     extractor_type                  the type of descriptor extractor that is to used                                            { contour, histogram, contour_histogram }
     extractor_tweak_vector          a vector that parameterizes the descriptor extractors                                       vector of real numbers delimited by spaces
@@ -102,10 +102,10 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     saliency_maps_file              a file that points to the stored the saliency maps                                          path to a file
     saliency_masks_file             a file that points to the stored saliency masks                                             path to a file
     ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
+
     === detector_tweak_vector: ===
     The following tables provide information about the usage of the tweak vectors for the salient region detector modules.
-    
+
     SALIENCY_FILTERS
     ----------------
         INDEX           EXPLANATION                             ACCEPTED VALUES
@@ -123,16 +123,16 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
         11:             use distribution?                       {0,1}
         12:             filter uniqueness?                      {0,1}
         13:             filter distribution?                    {0,1}
-        14:             use superpixel color?                   {0,1}    
-        
+        14:             use superpixel color?                   {0,1}
+
     === extractor_tweak_vector: ===
     The following tables provide information about the usage of the tweak vectors for the feature extractor modules.
-    
-    CONTOUR 
+
+    CONTOUR
     -------
         INDEX           EXPLANATION                             ACCEPTED VALUES
         0:              number of fourier components            {n | n el N+, n>=2}
-        
+
     HISTOGRAM
     ---------
         INDEX           EXPLANATION                             ACCEPTED VALUES
@@ -141,7 +141,7 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
         2:              number of value histogram bins          {n | n el N+, n>=1}
         3:              use channel-wise autocorrelation        {0,1}
         4:              use color histogram of whole image      {0,1}
-    
+
     CONTOUR_HISTOGRAM
     -----------------
         INDEX           EXPLANATION                             ACCEPTED VALUES
@@ -151,8 +151,8 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
         3:              number of value histogram bins          {n | n el N+, n>=1}
         4:              use channel-wise autocorrelation        {0,1}
         5:              use color histogram of whole image      {0,1}
-     
-    
+
+
     EXAMPLE: FeatureGenerator.cfg
     -----------------------------------------------------------------------------------------------
     log_file = ..\FeatureGenerator.log
@@ -179,7 +179,7 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     symlink_garbage_files = 1
     -----------------------------------------------------------------------------------------------
 
-    
+
     OUTPUT:
     - a log-file
     - a file that lists all correctly processed images
@@ -205,7 +205,7 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     clusterer_type                  the type of clusterer that is to be used                                            { flannkmeans, outlier, optics }
     clusterer_tweak_vector          a vector that parameterizes the clusterer                                           vector of real numbers delimited by spaces
     output_directory                path of the output directory                                                        path to a directory
-    membership_probabilities_file   a file that stores the cluster membership probabilities for each image              path to a file    
+    membership_probabilities_file   a file that stores the cluster membership probabilities for each image              path to a file
     membership_mappings_file        a file that assigns one cluster to each image                                       path to a file
     result_file_prefix              a prefix for folders that represent clusters into which images are linked           a string without spaces
     result_filenames_file           a file for the paths to all text files which keep the partitioned image paths       path to a file
@@ -213,20 +213,20 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     symlink_saliency_maps           whether or not to create clustered symbolic links of the saliency maps              {0,1}
     saliency_maps_file              a file that points to all saliency maps                                             path to a file
     --------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
+
     === clusterer_tweak_vector: ===
     The following tables provide information about the usage of the tweak vectors for the clustering modules.
-    
-    FLANNKMEANS 
-    ----------- 
+
+    FLANNKMEANS
+    -----------
         INDEX           EXPLANATION                             ACCEPTED VALUES
         0:              number of clusters hint{n               N+
-    
+
     OUTLIER
     -------
         INDEX           EXPLANATION                             ACCEPTED VALUES
         0:              number of outliers                      N+
-    
+
     OPTICS
     ------
         INDEX           EXPLANATION                             ACCEPTED VALUES
@@ -236,13 +236,13 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
         3:              number of clusters / persistence value  {n | n el N+, n>=1}
         4:              outlier threshold, if <=0: :=INFINITY   R
 
-        
+
         The optics module creates also two files in their working directory:
             - optics_ordered_feature_indices.txt
             - optics_reachability_distances.txt
         both files can be used to work with the OPTICSAnalyzer.
-        
-    
+
+
     EXAMPLE: Clusterer.cfg
     -----------------------------------------------------------------------------------------------
     log_file = ..\Clusterer.log
@@ -259,8 +259,8 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     symlink_saliency_maps = 0
     saliency_maps_file = ..\fg_saliency_maps.txt
     -----------------------------------------------------------------------------------------------
-    
-    
+
+
     OUTPUT:
     - a log file
     - a file that stores the cluster membership probabilities for each image
@@ -270,7 +270,7 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     - (optional) folders that represent clusters with symbolic links of the corresponding images
     - (optional) symbolic links of the corresponding saliency maps in the same folders
 
-    
+
 2.3 Evaluation ####################################################################################
 
     The Evaluation application takes a config file that is to be filled with the listed keys and values
@@ -279,16 +279,16 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     VARIABLE                        EXPLANATION                                                                 ACCEPTED VALUES
     --------------------------------------------------------------------------------------------------------------------------------------------------
     log_file                        path to the log file                                                        path to a file
-    membership_probabilities_file   a file that stores the cluster membership probabilities for each image      path to a file    
+    membership_probabilities_file   a file that stores the cluster membership probabilities for each image      path to a file
     membership_mappings_file        a file that assigns one cluster to each image                               path to a file
     cluster_file_paths_file         a file that stores the paths to all cluster files                           path to a file
     image_db_directory              root directory to the benchmark image database                              path to a directory
-    mode                            the evaluation mode, either precision/recall or bayes inference             { precision_recall / bayes_inference }    
+    mode                            the evaluation mode, either precision/recall or bayes inference             { precision_recall / bayes_inference }
     posteriors_file                 a file that stores the bayesian inference posteriors                        path to a file
-    precision_recall_file           a file that stores the precision/recall values                              path to a file    
+    precision_recall_file           a file that stores the precision/recall values                              path to a file
     class_name_file                 a file that stores the inferred class names for each cluster                path to a file
     --------------------------------------------------------------------------------------------------------------------------------------------------
-    
+
     EXAMPLE: Evaluation.cfg
     -----------------------------------------------------------------------------------------------
     log_file = ..\Evaluation.log
@@ -301,14 +301,14 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     precision_recall_file = ..\eval_precision_recall_file.txt
     class_name_file = ..\eval_class_name_file.txt
     -----------------------------------------------------------------------------------------------
-    
-    
+
+
     OUTPUT:
     - a log file
     - (optional) a file that stores the posterior probabilities of each image to belong to the assigned cluster
     - (optional) a file that stores the precision/recall measures for each class/cluster
     - a file that stores the class assignments to each cluster
-    
+
 
 2.4 OPTICSAnalyzer ################################################################################
 
@@ -325,24 +325,24 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
     -------------------------------------------------------------------------------------------------------------
 
     The specified files must exist and hold valid entries.
-    
-    
-    
+
+
+
 3. EXTERNAL LIBRARIES #############################################################################
 ###################################################################################################
 
     LIBRARY                                                 LICENSE                                         WEBSITE
 
-    - OpenCV                                                3-clause BSD License                            http://opencv.org   
-    - Boost                                                 Boost Software License                          http://boost.org    
+    - OpenCV                                                3-clause BSD License                            http://opencv.org
+    - Boost                                                 Boost Software License                          http://boost.org
     - SaliencyFilters impl. by Philipp Krähenbühl           --- no licensing ---                            http://www.philkr.net
     - Persistence1D   by Yeara Kozlov and Tino Weinkauf     --- no licensing ---                            http://www.mpi-inf.mpg.de/~weinkauf/notes/persistence1d.html
     - rlutil          by Tapio Vierros                      Do What The Fuck You Want To Public License     http://tapiov.net/rlutil
-                   
 
-                   
+
+
 4. HISTORY ########################################################################################
-###################################################################################################    
+###################################################################################################
 
 150717      - added link to the Caltech-256 image database
             - mentioned the doxygen documentation folder
@@ -354,6 +354,6 @@ The executables can be found in     <SOLUTION-SOLUTION_ROOT>\bin\            and
 150611      -creation of the readme file
             -made tweak-vectors foolproof
 
-            
+
 
 # END OF FILE #
